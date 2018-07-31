@@ -1,0 +1,40 @@
+{
+    "todos":[
+        {
+            "title": "Task 1",
+            "responsible": "Mark",
+            "description": "lorem impsum",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Ryan",
+            "description": "lorem impsum2",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Sol",
+            "description": "lorem impsum3",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Nyan",
+            "description": "lorem impsum4",
+            "priority": "low"
+        },
+        {
+            "title": "Task 5",
+            "responsible": "Adolf",
+            "description": "lorem impsum5",
+            "priority": "high"
+        },
+        {
+            "title": "Task 6",
+            "responsible": "Franco",
+            "description": "lorem impsum6",
+            "priority": "high"
+        }
+    ]
+}
